@@ -10,19 +10,10 @@
         "Hello"
       ],
       "responses": [
-        "Hey :-)",
+        "Hey :-) welcome to Kamukunji shop",
         "Hello, thanks for visiting",
-        "Hi there, what can I do for you?",
-        "Hi there, how can I help?"
-      ]
-    },
-    {
-      "tag": "product",
-      "patterns": [
-        "Do you have products?"
-      ],
-      "responses": [
-        "visit, http://localhost/code/graduate/"
+        "Hi there welcome to Kamukunji shop, what can I do for you?",
+        "Hi there welcome to Kamukunji shop, how can I help?"
       ]
     },
     {
@@ -50,17 +41,6 @@
         "Happy to help!",
         "Any time!",
         "My pleasure"
-      ]
-    },
-    {
-      "tag": "customer_service",
-      "patterns": [
-        "I need to talk to customer service",
-        "can I speak to a customer service representative?",
-        "how can I contact customer service?"
-      ],
-      "responses": [
-        "Sure, we're here to help! You can reach our customer service team by phone, email, or live chat. Our representatives are available 24/7 to assist you with any questions or concerns."
       ]
     }
   ]
